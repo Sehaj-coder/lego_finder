@@ -72,4 +72,5 @@ class _CameraScreenState extends State<CameraScreen> {
     );
   }
 }
-flutter run -d chrome
+flutter run -d chrome> Repo updated to test Codemagic integration 🚀
+
